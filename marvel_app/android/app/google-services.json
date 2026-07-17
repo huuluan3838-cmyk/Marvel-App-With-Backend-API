@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "276640464927",
+    "project_id": "marvelapp-7d7fd",
+    "storage_bucket": "marvelapp-7d7fd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276640464927:android:b5da017d1e57f166e3152a",
+        "android_client_info": {
+          "package_name": "com.example.marvel_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276640464927-c0tv2u57i8ev2ejd1gmh9dirp3h6d4ts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marvel_app",
+            "certificate_hash": "4cdb4109a4db50575bc4e316bc41266a0ca7eb51"
+          }
+        },
+        {
+          "client_id": "276640464927-lqtbv689g3ur063iuc1f97sj67mas17c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marvel_app",
+            "certificate_hash": "09286a9d2a481c5698f2389bb6106a1dabb8a767"
+          }
+        },
+        {
+          "client_id": "276640464927-2ng8iti1pl2qfb31smp9e6bgdke9oipk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrVA6gZRcxvjelhSRSlfTNSx8hZSGXaSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276640464927-2ng8iti1pl2qfb31smp9e6bgdke9oipk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

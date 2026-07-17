@@ -1,0 +1,90 @@
+name: marvel_travel
+description: Ứng dụng giới thiệu địa điểm du lịch Việt Nam - Marvel Travel
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_sign_in: ^7.2.0
+  firebase_core: ^4.10.0
+  firebase_auth: ^6.5.2
+  firebase_messaging: ^16.0.0
+  flutter_local_notifications: ^19.0.0
+  provider: ^6.0.5
+
+  cupertino_icons: ^1.0.2
+  intl: ^0.20.2
+  flutter_map: ^8.3.0
+  latlong2: ^0.9.1
+  http: ^1.6.0
+  geolocator: ^14.0.2
+  cached_network_image: ^3.4.1
+  image_picker: ^1.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/images/posts/
+    - assets/images/cam_nang/
+    - assets/images/details/
+  fonts:
+    - family: BeVietnamPro
+      fonts:
+        - asset: assets/fonts/BeVietnamPro-Thin.ttf
+          weight: 100
+        - asset: assets/fonts/BeVietnamPro-ThinItalic.ttf
+          weight: 100
+          style: italic
+        - asset: assets/fonts/BeVietnamPro-ExtraLight.ttf
+          weight: 200
+        - asset: assets/fonts/BeVietnamPro-ExtraLightItalic.ttf
+          weight: 200
+          style: italic
+        - asset: assets/fonts/BeVietnamPro-Light.ttf
+          weight: 300
+        - asset: assets/fonts/BeVietnamPro-LightItalic.ttf
+          weight: 300
+          style: italic
+        - asset: assets/fonts/BeVietnamPro-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/BeVietnamPro-Italic.ttf
+          weight: 400
+          style: italic
+        - asset: assets/fonts/BeVietnamPro-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/BeVietnamPro-MediumItalic.ttf
+          weight: 500
+          style: italic
+        - asset: assets/fonts/BeVietnamPro-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/BeVietnamPro-SemiBoldItalic.ttf
+          weight: 600
+          style: italic
+        - asset: assets/fonts/BeVietnamPro-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/BeVietnamPro-BoldItalic.ttf
+          weight: 700
+          style: italic
+        - asset: assets/fonts/BeVietnamPro-ExtraBold.ttf
+          weight: 800
+        - asset: assets/fonts/BeVietnamPro-ExtraBoldItalic.ttf
+          weight: 800
+          style: italic
+        - asset: assets/fonts/BeVietnamPro-Black.ttf
+          weight: 900
+        - asset: assets/fonts/BeVietnamPro-BlackItalic.ttf
+          weight: 900
+          style: italic
