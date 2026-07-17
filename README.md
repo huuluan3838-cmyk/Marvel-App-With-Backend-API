@@ -3,7 +3,7 @@
 ##  Giới thiệu dự án
 Dự án là một hệ thống công nghệ hoàn chỉnh bao gồm ứng dụng di động (Mobile App) kết hợp với hệ thống dịch vụ hậu tầng (Backend API). Hệ thống cho phép người dùng khám phá, tìm kiếm và quản lý thông tin về các nhân vật, sự kiện, truyện tranh thuộc vũ trụ điện ảnh Marvel một cách mượt mà và trực quan.
 
-## 🛠 Công nghệ sử dụng
+##  Công nghệ sử dụng
 - **Ứng dụng di động (Frontend Mobile):** Flutter / Dart / VS Code
 - **Hệ thống dịch vụ (Backend API):** ASP.NET Core (.NET 6.0 / .NET 8.0) / C# / Visual Studio
 - **Cơ sở dữ liệu (Database):** SQL Server
@@ -29,7 +29,7 @@ Dự án là một hệ thống công nghệ hoàn chỉnh bao gồm ứng dụn
 - `database/`: Chứa file script `database.sql` và `danh sach duong dan anh bo sung.sql` để khởi tạo cấu trúc bảng và dữ liệu mẫu trong SQL Server.
 - Các file tài liệu báo cáo đồ án đi kèm (`.docx`, `.pptx`).
 
-## 🛠 Hướng dẫn cài đặt và chạy thử (Installation & Setup)
+##  Hướng dẫn cài đặt và chạy thử (Installation & Setup)
 
 ### 1. Cấu hình Cơ sở dữ liệu (Backend)
 1. Mở **SQL Server Management Studio (SSMS)**.
